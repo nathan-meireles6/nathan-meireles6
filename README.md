@@ -1,5 +1,5 @@
 # nathan.meireles6
-Config files for my GitHub profile.
+
 <h1 align="center">Oi, eu sou o Nathan</h1>
 <h3 align="center">Sou um estudante apaixonado por Dados</h3>
 
@@ -7,7 +7,7 @@ Config files for my GitHub profile.
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel e Python**
 
-- Você me acha através do e-mail **nathanmeireles6@gmail.com**
+- ✉️ Você me acha através do e-mail **nathanmeireles6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
