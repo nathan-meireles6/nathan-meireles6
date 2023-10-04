@@ -1,4 +1,4 @@
-# nathan.meireles6
+# nathan-meireles6
 
 <h1 align="center">Oi, eu sou o Nathan</h1>
 <h3 align="center">Sou um estudante apaixonado por Dados</h3>
